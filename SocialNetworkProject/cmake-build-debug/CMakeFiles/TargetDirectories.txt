@@ -1,0 +1,3 @@
+/Users/suleymanceran/CLionProjects/SocialNetworkProject/cmake-build-debug/CMakeFiles/SocialNetworkProject.dir
+/Users/suleymanceran/CLionProjects/SocialNetworkProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/suleymanceran/CLionProjects/SocialNetworkProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
